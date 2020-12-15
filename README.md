@@ -13,3 +13,4 @@ GIF | Tags
 ![batman facepalm](https://media.giphy.com/media/3xz2BLBOt13X9AgjEA/source.gif) | `facepalm`
 ![inspector gadget pondering](https://media.giphy.com/media/14mgxYFJHXGmoo/source.gif) | `thinking` `pondering`
 ![uncle ben with great powers...](https://media.giphy.com/media/10KIsXhwdoerHW/source.gif) | `responsibility`
+![donatello working hard on keyboard](https://media.giphy.com/media/cFdHXXm5GhJsc/source.gif) | `working` `coding`
