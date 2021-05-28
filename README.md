@@ -9,6 +9,7 @@ GIF | Tags
 ![cheering minions](http://www.reactiongifs.com/r/cheering_minions.gif) | `cheering`, `excited`
 ![mrs. doubtfire cleaning](https://media.giphy.com/media/tJXZ51AOFBTGgZSY9y/source.gif) | `cleaning`
 ![sweeping with broom](https://media1.tenor.com/images/e34973dbb9838f13c926c6378e901808/tenor.gif?itemid=16836925) | `cleaning`
+![dug up squirrel](https://media.giphy.com/media/NoHe3HpB1Mg8w/giphy.gif) | `distracted` `squirrel`
 ![mr burns excellent](https://media3.giphy.com/media/5nFShZWwq3fdm/giphy.gif?cid=ecf05e472nqq55qjfeuu4yk2ytcqpmh90qi8p503luqwv1wj) | `excellent` `sneaky`
 ![young frankenstein it's alive](https://media.giphy.com/media/l3vRlInF7QViJNOow/source.gif) | `excited`, `it works`
 ![kid can't wait](https://media1.tenor.com/images/6758caa542197854b1dd7575125d5487/tenor.gif?itemid=11207973) | `excited` `can't wait`
