@@ -17,6 +17,7 @@ GIF | Tags
 ![falling at-at](https://media.giphy.com/media/dvD0OAETRfCXC/giphy.gif) | `fail` `star wars`
 ![italian and kiss](https://media.giphy.com/media/3o6ozkQbdfOIyCC6wU/giphy.gif) | `perfect`
 ![balto sad](https://media3.giphy.com/media/fxU6WfJ8eembhmZBC6/giphy.gif?cid=ecf05e47ye90rn3oes7gnmmxaa5ic3qic2xdbqz1nqhxczpq&rid=giphy.gif) | `forgive-me`, `sorry`
+![ship it titanic](https://media.giphy.com/media/79qf1N4RJtc8o/giphy.gif) | `ship-it`
 ![pokemon team-work](https://media.giphy.com/media/l3vQXn15dRVNMru7e/giphy.gif) | `team-work`, `pokemon`
 ![inspector gadget pondering](https://media.giphy.com/media/14mgxYFJHXGmoo/source.gif) | `thinking` `pondering`
 ![uncle ben with great powers...](https://media.giphy.com/media/10KIsXhwdoerHW/source.gif) | `responsibility`
