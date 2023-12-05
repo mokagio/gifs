@@ -23,3 +23,4 @@ GIF | Tags
 ![inspector gadget pondering](https://media.giphy.com/media/14mgxYFJHXGmoo/source.gif) | `thinking` `pondering`
 ![uncle ben with great powers...](https://media.giphy.com/media/10KIsXhwdoerHW/source.gif) | `responsibility`
 ![donatello working hard on keyboard](https://media.giphy.com/media/cFdHXXm5GhJsc/source.gif) | `working` `coding` `tmnt`
+![i have no idea](https://miro.medium.com/v2/resize:fit:1130/format:webp/0*VUfPQnIR2THFl865.jpeg) | `working` `beginner`
